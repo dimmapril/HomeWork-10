@@ -10,5 +10,5 @@ allowed_signers — список довірених ключів з вказан
 verify_lecturer.txt — сирий вивід перевірки підпису викладача над моїм image.png у namespace robot_dreams.
 
 Завдання 3. 
-Пыписаний
+Коміт підписаний
 # Signed with SSH in Codespaces (2025-11-03)
