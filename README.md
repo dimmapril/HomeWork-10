@@ -11,3 +11,4 @@ verify_lecturer.txt — сирий вивід перевірки підпису 
 
 Завдання 3. 
 Пыписаний
+# Signed with SSH in Codespaces (2025-11-03)
